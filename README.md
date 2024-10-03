@@ -1,6 +1,6 @@
 # Projet Étude des données sur les inondations
 
-Ce projet en R a été réalisé dans le cadre du cours "Assurance Non-Vie" en M1 Actuariat. L'objectif était de choisir un sujet traitant de l'assurance Non-Vie ; j'ai donc choisi d'étudier le risque d'inondation. Pour ce faire, nous nous sommes limités à la France métropolitaine (Corse incluse). Les données utilisées proviennent des stations météorologiques de Météo France.
+Ce projet en R a été réalisé dans le cadre du cours "Assurance Non-Vie" en M1 Actuariat. L'objectif était de choisir un sujet traitant de l'assurance Non-Vie ; nous donc choisi d'étudier le risque d'inondation. Pour ce faire, nous nous sommes limités à la France métropolitaine (Corse incluse). Les données utilisées proviennent des stations météorologiques de Météo France.
 
 ## Approche méthodologique
 
